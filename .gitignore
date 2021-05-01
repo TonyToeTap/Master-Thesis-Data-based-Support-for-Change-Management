@@ -11,6 +11,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Manually edited by Lukas Jünger:
+.idea/
+
+
 # Distribution / packaging
 .Python
 build/
