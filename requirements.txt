@@ -1,4 +1,5 @@
 numpy
 pm4py
 pandas
+graphviz
 
