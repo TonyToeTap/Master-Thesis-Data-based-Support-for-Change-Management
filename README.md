@@ -27,6 +27,6 @@ In the long term, it is planned to integrate the developed tool into already dev
 - Tkinter
 
 ## Snippet from the tool
-![Snippet_Tool](https://user-images.githubusercontent.com/77395890/158964578-66365c39-5d1e-48ca-87df-98acafb1d8d0.png)
+![Snippet_Tool](https://user-images.githubusercontent.com/77395890/158965504-bf3ebf10-decf-427c-9041-089af26d9717.png)
 All data has been changed for confidentiality reasons.
 
